@@ -1,0 +1,10 @@
+uname -a: muestra información general del sistema operativo, como el nombre de red asignado al equipo, 
+la versión del sistema, la fecha de compilación y otros elementos relacionados con su respectivo funcionamiento.
+
+whoami: muestra el nombre del usuario con el que se inició la sesión actual en la terminal.
+
+Es útil conocer esta información porque como medida de seguridad, ayuda a verificar el usuario con 
+el que se está trabajando y otros elementos internos del sistema que pueden influir directamente en el manejo de 
+datos sensibles o importantes. Por último, permite revisar características del entorno de trabajo, 
+identificar posibles vulnerabilidades y verificar si es seguro ejecutar determinados comandos o 
+realizar procesos dentro de la red y del usuario actual.

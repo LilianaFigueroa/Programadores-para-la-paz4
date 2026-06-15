@@ -1,0 +1,3 @@
+3. Usar contraseñas seguras y encriptadas
+2. Usar de manera adecuada la IA para no exponer datos sensibles o credenciales
+2. Usar de manera responsable la IA para no exponer datos sensibles o credenciales

@@ -1,0 +1,6 @@
+Distribuir los roles y el acceso dentro de una plataforma digital
+Implementar autenticación de identidad para el ingreso de administradores
+Revisar cuidadosamente los archivos que se suben al repositorio remoto
+Almacenar y proteger los datos sensibles de los usuarios
+Establecer claramente los límites y alcances de la plataforma comunitaria
+Filtrar y verificar la información que se integra a la plataforma comunitaria
